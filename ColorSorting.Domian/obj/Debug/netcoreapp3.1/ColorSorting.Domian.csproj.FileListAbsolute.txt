@@ -1,0 +1,10 @@
+D:\Project\Tecan Test Problem\ColorSorting\ColorSorting.Domian\bin\Debug\netcoreapp3.1\ColorSorting.Domian.deps.json
+D:\Project\Tecan Test Problem\ColorSorting\ColorSorting.Domian\bin\Debug\netcoreapp3.1\ColorSorting.Domian.dll
+D:\Project\Tecan Test Problem\ColorSorting\ColorSorting.Domian\bin\Debug\netcoreapp3.1\ColorSorting.Domian.pdb
+D:\Project\Tecan Test Problem\ColorSorting\ColorSorting.Domian\obj\Debug\netcoreapp3.1\ColorSorting.Domian.csproj.AssemblyReference.cache
+D:\Project\Tecan Test Problem\ColorSorting\ColorSorting.Domian\obj\Debug\netcoreapp3.1\ColorSorting.Domian.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Tecan Test Problem\ColorSorting\ColorSorting.Domian\obj\Debug\netcoreapp3.1\ColorSorting.Domian.AssemblyInfoInputs.cache
+D:\Project\Tecan Test Problem\ColorSorting\ColorSorting.Domian\obj\Debug\netcoreapp3.1\ColorSorting.Domian.AssemblyInfo.cs
+D:\Project\Tecan Test Problem\ColorSorting\ColorSorting.Domian\obj\Debug\netcoreapp3.1\ColorSorting.Domian.csproj.CoreCompileInputs.cache
+D:\Project\Tecan Test Problem\ColorSorting\ColorSorting.Domian\obj\Debug\netcoreapp3.1\ColorSorting.Domian.dll
+D:\Project\Tecan Test Problem\ColorSorting\ColorSorting.Domian\obj\Debug\netcoreapp3.1\ColorSorting.Domian.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EUnyslM3qGpCFWrSVTM1BnxxmlH+Maszt62XPvBjfea9zz3Z0mGQzAeqUlBJZ2qpY9k9W9HRvcnmyLppB+6Hww==",
+  "success": true,
+  "projectFilePath": "D:\\Project\\Tecan Test Problem\\ColorSorting\\ColorSorting.Infrastructure\\ColorSorting.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
